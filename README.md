@@ -2,7 +2,7 @@
 </p>
 <br><br>
 
-<img src="https://media2.giphy.com/media/jIzXYqaQ0nLkA/giphy.gif"/>
+<img src="https://c.tenor.com/nWEV5e3Re68AAAAC/angolano-equilibrista.gif"/>
 
 ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
