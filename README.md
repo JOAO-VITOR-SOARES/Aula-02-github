@@ -10,7 +10,7 @@
  </p>
 </p>
 
-- 🔭  Atualmente estou trabalhando é estudando na Pado Labs
+- 🔭  Atualmente estou trabalhando e estudando na Pado Labs
 
 - 🌱  Estou aprendendo C 
 
