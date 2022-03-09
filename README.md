@@ -2,7 +2,7 @@
 </p>
 <br><br>
 
-<img src="https://c.tenor.com/nWEV5e3Re68AAAAC/angolano-equilibrista.gif"/>
+<img src="https://c.tenor.com/dyPKyTjVGM4AAAAd/piruleta-angolano.gif"/>
 
 ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
