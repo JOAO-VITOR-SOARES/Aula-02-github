@@ -2,7 +2,9 @@
 </p>
 <br><br>
 
-<img src="https://guilhermesteves.dev/img/posts/aprenda-go-a-linguagem-backend-do-futuro/gopher-working.gif"/>
+<div align="center">
+  <img height="180em" src="https://guilhermesteves.dev/img/posts/aprenda-go-a-linguagem-backend-do-futuro/gopher-working.gif"/>
+</div>
 
 ## Total de visitas no meu perfil :detective: <br>
  <p align="center"> 
