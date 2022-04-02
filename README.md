@@ -3,24 +3,20 @@
 <br><br>
 
 <div align="center">
-  <img height="180em" src="https://guilhermesteves.dev/img/posts/aprenda-go-a-linguagem-backend-do-futuro/gopher-working.gif"/>
+  <img height="185em" src="https://guilhermesteves.dev/img/posts/aprenda-go-a-linguagem-backend-do-futuro/gopher-working.gif"/>
 </div>
 
-## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/JOAO-VITOR-SOARES/count.svg "width="50"/>
- </p>
-</p>
+## gosto e interesses <br>
 
-- 🔭  Atualmente estou trabalhando e estudando na Pado Labs
+- 🔭  Atualmente estou trabalhando e estudando na Pado Labs.
 
-- 🌱  Estou aprendendo C 
+- 🌱  Estou aprendendo C .
 
-- 👯 I’m lookin colaborar nos projetos 
+- 👯 I’m lookin colaborar nos projetos .
 
-- 💬 Ask me abo  HTML, CSS
+- 💬 Ask me abo  HTML, CSS.
 
-- ⚡ Fun fact:  Gosto de  JDM  🔰
+- ⚡ Fun fact:  Gosto de  JDM . 🔰
 
 <div align="center">
   <a href="https://github.com/JOAO-VITOR-SOARES">
