@@ -12,7 +12,7 @@
 
 - 🌱  Estou aprendendo C .
 
--🤝 I’m lookin colaborar nos projetos .
+- 🤝 I’m lookin colaborar nos projetos .
 
 - 💬 Ask me abo  HTML, CSS.
 
