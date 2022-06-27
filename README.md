@@ -2,10 +2,6 @@
 </p>
 <br><br>
 
-<div align="center">
-  <img height="185em" src="https://guilhermesteves.dev/img/posts/aprenda-go-a-linguagem-backend-do-futuro/gopher-working.gif"/>
-</div>
-
 ## gosto e interesses <br>
 
 - 🔭  Atualmente estou trabalhando e estudando na Pado Labs.
